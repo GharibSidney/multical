@@ -18,6 +18,7 @@ class Calibrate:
     vis : bool = False        # Visualize result after calibration
 
     def execute(self):
+        print('CALIBRATING')
         calibrate(self)
 
 
@@ -29,13 +30,14 @@ def calibrate(args):
 
   ws = workspace.Workspace(output_path, args.paths.name)
   setup_logging(args.runtime.log_level, [ws.log_handler], log_file=path.join(output_path, f"{args.paths.name}.txt"))
-
+  print('workinspace:', ws)
   boards = find_board_config(args.paths.image_path, board_file=args.paths.boards)
   camera_images = find_camera_images(args.paths.image_path, 
     args.paths.cameras, args.paths.camera_pattern, limit=args.paths.limit_images)
-
+  print('CAMERA IMAGES:', camera_images)
   initialise_with_images(ws, boards, camera_images, args.camera, args.runtime)
   optimize(ws, args.optimizer)
+  print('EXPORTING')
 
   ws.export()
   ws.dump()

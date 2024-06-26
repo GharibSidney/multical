@@ -1,0 +1,798 @@
+{
+  "cameras": {
+    "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": {
+      "model": "standard",
+      "image_size": [
+        1280,
+        720
+      ],
+      "K": [
+        [
+          159.49142094499274,
+          0.0,
+          639.3464306974291
+        ],
+        [
+          0.0,
+          259.4040249083826,
+          359.4537600623696
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dist": [
+        [
+          -0.004327287653291165,
+          -0.0006167224560459011,
+          -0.0001550692998276241,
+          -0.00011739824346760457,
+          -4.1390968013525086e-05
+        ]
+      ]
+    },
+    "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": {
+      "model": "standard",
+      "image_size": [
+        1280,
+        720
+      ],
+      "K": [
+        [
+          90.32899271665238,
+          0.0,
+          582.9887477204242
+        ],
+        [
+          0.0,
+          182.33140879772571,
+          326.7820196230894
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dist": [
+        [
+          -0.05382867569500077,
+          0.00019873230548344957,
+          -0.020895149548126466,
+          0.017250175991978662,
+          1.2509188524142777e-05
+        ]
+      ]
+    }
+  },
+  "image_sets": {
+    "rgb": [
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_104.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_104.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_109.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_109.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_114.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_114.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_119.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_119.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_124.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_124.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_129.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_129.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_134.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_134.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_139.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_139.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_144.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_144.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_149.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_149.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_154.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_154.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_159.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_159.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_164.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_164.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_169.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_169.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_174.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_174.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_179.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_179.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_184.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_184.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_189.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_189.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_194.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_194.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_199.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_199.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_204.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_204.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_209.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_209.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_214.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_214.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_219.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_219.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_224.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_224.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_229.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_229.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_234.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_234.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_239.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_239.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_244.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_244.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_249.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_249.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_254.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_254.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_259.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_259.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_264.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_264.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_269.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_269.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_274.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_274.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_279.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_279.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_284.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_284.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_289.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_289.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_294.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_294.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_299.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_299.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_304.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_304.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_309.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_309.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_314.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_314.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_319.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_319.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_324.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_324.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_329.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_329.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_334.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_334.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_339.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_339.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_344.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_344.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_349.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_349.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_354.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_354.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_359.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_359.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_364.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_364.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_369.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_369.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_374.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_374.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_379.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_379.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_384.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_384.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_389.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_389.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_394.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_394.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_399.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_399.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_404.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_404.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_409.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_409.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_414.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_414.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_419.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_419.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_424.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_424.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_429.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_429.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_434.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_434.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_439.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_439.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_444.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_444.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_449.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_449.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_454.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_454.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_459.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_459.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_464.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_464.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_469.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_469.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_474.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_474.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_479.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_479.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_484.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_484.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_489.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_489.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_494.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_494.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_499.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_499.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_504.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_504.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_509.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_509.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_514.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_514.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_519.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_519.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_524.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_524.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_529.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_529.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_534.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_534.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_539.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_539.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_544.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_544.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_549.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_549.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_554.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_554.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_559.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_559.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_564.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_564.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_569.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_569.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_574.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_574.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_579.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_579.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_584.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_584.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_589.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_589.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_594.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_594.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_599.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_599.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_604.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_604.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_609.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_609.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_614.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_614.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_619.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_619.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_624.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_624.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_629.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_629.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_634.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_634.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_639.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_639.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_644.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_644.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_649.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_649.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_654.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_654.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_659.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_659.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_664.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_664.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_669.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_669.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_674.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_674.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_679.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_679.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_684.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_684.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_689.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_689.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_694.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_694.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_699.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_699.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_704.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_704.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_709.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_709.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_714.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_714.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_719.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_719.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_724.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_724.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_729.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_729.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_734.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_734.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_739.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_739.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_744.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_744.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_749.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_749.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_754.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_754.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_759.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_759.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_764.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_764.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_769.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_769.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_774.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_774.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_779.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_779.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_784.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_784.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_789.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_789.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_794.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_794.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_799.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_799.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_804.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_804.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_809.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_809.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_814.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_814.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_819.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_819.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_824.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_824.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_829.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_829.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_834.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_834.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_839.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_839.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_844.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_844.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_849.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_849.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_854.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_854.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_859.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_859.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_864.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_864.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_869.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_869.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_874.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_874.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_879.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_879.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_884.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_884.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_889.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_889.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_894.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_894.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_899.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_899.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_904.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_904.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_909.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_909.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_914.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_914.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_919.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_919.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_924.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_924.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_929.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_929.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_934.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_934.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_939.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_939.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_944.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_944.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_949.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_949.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_954.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_954.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_959.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_959.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_964.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_964.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_969.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_969.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_974.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_974.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_979.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_979.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_984.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_984.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_989.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_989.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_994.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_994.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_999.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_999.jpg"
+      },
+      {
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2\\color_frame2_1004.jpg",
+        "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1": "C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1\\color_frame1_1004.jpg"
+      }
+    ]
+  }
+}

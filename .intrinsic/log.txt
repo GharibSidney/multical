@@ -1,0 +1,26 @@
+INFO - Intrinsic(paths=PathOpts(name='intrinsic', output_path=None, master=None, image_path='.', boards='images_sidney\\boards.yaml', camera_pattern=None, cameras=['C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2', 'C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1'], limit_images=200), camera=CameraOpts(fix_aspect=False, allow_skew=False, distortion_model='standard', motion_model='static', isFisheye=False, calibration=None, limit_intrinsic=50), runtime=RuntimeOpts(num_threads=15, log_level='INFO', no_cache=False, seed=0))
+INFO - Finding images in .
+INFO - Found camera directories ['C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2', 'C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1'] with 2 matching images
+INFO - Found camera directories with images {'C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2': 181, 'C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1': 181}
+INFO - Using boards:
+INFO - charuco_11x16 CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(11, 16), num_ids=88, marker_length=0.015, square_length=0.021, aruco_params={}}
+INFO - Loading images..
+INFO - {'C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam2': (1280, 720), 'C:\\Users\\sigha\\Documents\\Cobotique\\multical_backup\\mc_install_from_source\\multical\\images_sidney\\cam1': (1280, 720)}
+INFO - Config changed, not using loaded detections in .intrinsic\detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .intrinsic\detections.pkl
+INFO - Calibrated C:\Users\sigha\Documents\Cobotique\multical_backup\mc_install_from_source\multical\images_sidney\cam2, with RMS=60.30
+INFO - Camera {'dist': array([[-0.0043, -0.0006, -0.0002, -0.0001, -0.    ]]),
+        'image_size': (1280, 720),
+        'intrinsic': array([[159.4914,   0.    , 639.3464],
+              [  0.    , 259.404 , 359.4538],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated C:\Users\sigha\Documents\Cobotique\multical_backup\mc_install_from_source\multical\images_sidney\cam1, with RMS=58.24
+INFO - Camera {'dist': array([[-0.0538,  0.0002, -0.0209,  0.0173,  0.    ]]),
+        'image_size': (1280, 720),
+        'intrinsic': array([[ 90.329 ,   0.    , 582.9887],
+              [  0.    , 182.3314, 326.782 ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Writing single calibrations to .\intrinsic.json

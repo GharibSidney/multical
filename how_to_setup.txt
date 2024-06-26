@@ -1,0 +1,11 @@
+git clone https://github.com/oliver-batchelor/multical # code source, pour installer / modifier le module
+cd multical
+conda create -n multical python=3.9  # on crée un environement conda
+conda activate multical
+pip install opencv-contrib-python==4.5.1.48 numpy==1.26.4
+# 2 options:
+    #1 pip install -e .
+    #2 python setup.py bdist_wheel
+       cd .\dist\
+       pip install .\multicalxxx.whl # exemple: pip install .\multical-0.2.1-py3-none-any.whl
+
